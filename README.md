@@ -1,4 +1,4 @@
-> # 🆕 Upgraded version is now available!
+> # 🆕 Upgraded version is now available!   update
 > An upgraded and more modern version with full-stack monorepo, featuring an event-driven, highly scalable architecture using Node.js, React, Redis, MongoDB, and Docker is now available,
  check out [github.com/atulmy/fullstack-event-driven-architecture](https://github.com/atulmy/fullstack-event-driven-architecture)
 
